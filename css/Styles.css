@@ -1,0 +1,28 @@
+.clickable{
+    cursor: pointer;
+}
+
+.margetop60{
+    margin-top: 80px;
+}
+
+
+body {
+    background-color: rgb(240, 238, 238);
+    font-size: 15px;
+}
+h1{
+    font-size: 80px;
+    color: #2980b9;
+}
+
+.gradient-custom {
+   
+    background: #6a11cb;
+    
+   
+    background: -webkit-linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1));
+    
+  
+    background: linear-gradient(to right, rgba(106, 17, 203, 1), rgba(37, 117, 252, 1))
+    }
